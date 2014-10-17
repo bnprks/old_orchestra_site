@@ -1,0 +1,6 @@
+name: Princeton University Orchestra
+markdown: redcarpet
+
+relative-permalinks: false
+
+baseurl: /old_orchestra
